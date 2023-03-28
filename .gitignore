@@ -1,0 +1,7 @@
+# Project exclude paths
+/.idea/
+*.iml
+/target
+build
+bin
+/out/
